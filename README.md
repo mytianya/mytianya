@@ -1,4 +1,4 @@
-### 👋Hey there,I'm buer。
+### 👋Hey there,I'm buer(不二)。
 #### :boy:About Me
 - :joy:不知名程序员
 - 🔭 现在居住在南京
