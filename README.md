@@ -9,5 +9,4 @@
 [![buer's github stats](https://github-readme-stats.vercel.app/api?username=mytianya)](https://github.com/anuraghazra/github-readme-stats)
 
 #### :star:最近项目
-- 编写SpringBoot、SpringCloud教程
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mytianya&repo=springboot-tutorials)](https://github.com/anuraghazra/github-readme-stats)
