@@ -6,7 +6,7 @@
 - 💬 微信公众号: 程序员众推
 - 📫 个人网站: www.codehome.vip
 
-[![buer's github stats](https://github-readme-stats.vercel.app/api?username=mytianya)](https://github.com/anuraghazra/github-readme-stats)
+[![buer's github stats](https://github-readme-stats.vercel.app/api?username=mytianya)](https://github.com/mytianya)
 
 #### :star:最近项目
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mytianya&repo=springboot-tutorials)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mytianya&repo=springboot-tutorials)](https://github.com/mytianya/springboot-tutorials)
