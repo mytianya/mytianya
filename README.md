@@ -4,7 +4,7 @@
 - 🔭 现在居住在南京
 - 🌱 保持好奇心，啥代码的hello world都能敲一敲
 - 💬 微信公众号: 程序员众推
-- 📫 个人网站: https://mytianya.gitee.io
+- 📫 个人网站: https://mytianya.github.io
 
 [![buer's github stats](https://github-readme-stats.vercel.app/api?username=mytianya)](https://github.com/mytianya)
 
