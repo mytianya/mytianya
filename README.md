@@ -7,6 +7,5 @@
 - 📫 个人网站: https://www.codehome.vip
 
 [![buer's github stats](https://github-readme-stats.vercel.app/api?username=mytianya)](https://github.com/mytianya)
-![](https://www.codehome.vip/upload/image-gpmx.png)
 #### :star:最近项目
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mytianya&repo=springboot-tutorials)](https://github.com/mytianya/springboot-tutorials)
